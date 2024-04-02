@@ -1,4 +1,5 @@
-#this is our serializer 
+#this is our serializer
+#this is second
 from rest_framework import serializers
 from .models import Course
 
